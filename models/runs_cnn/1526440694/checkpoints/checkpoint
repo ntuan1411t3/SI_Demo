@@ -1,0 +1,6 @@
+model_checkpoint_path: "model-11000"
+all_model_checkpoint_paths: "/home/ml/thanh/thanh_cnn/runs/1526440694/checkpoints/model-8000"
+all_model_checkpoint_paths: "/home/ml/thanh/thanh_cnn/runs/1526440694/checkpoints/model-9000"
+all_model_checkpoint_paths: "/home/ml/thanh/thanh_cnn/runs/1526440694/checkpoints/model-10000"
+all_model_checkpoint_paths: "/home/ml/thanh/thanh_cnn/runs/1526440694/checkpoints/model-11000"
+all_model_checkpoint_paths: "/home/ml/thanh/thanh_cnn/runs/1526440694/checkpoints/model-12000"

@@ -1,0 +1,6 @@
+model_checkpoint_path: "model-31418"
+all_model_checkpoint_paths: "/home/ml/thanh/thanh_cnn/runs_cnn/1526633610/checkpoints/model-25954"
+all_model_checkpoint_paths: "/home/ml/thanh/thanh_cnn/runs_cnn/1526633610/checkpoints/model-27320"
+all_model_checkpoint_paths: "/home/ml/thanh/thanh_cnn/runs_cnn/1526633610/checkpoints/model-28686"
+all_model_checkpoint_paths: "/home/ml/thanh/thanh_cnn/runs_cnn/1526633610/checkpoints/model-30052"
+all_model_checkpoint_paths: "/home/ml/thanh/thanh_cnn/runs_cnn/1526633610/checkpoints/model-31418"

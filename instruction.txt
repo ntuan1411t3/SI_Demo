@@ -1,0 +1,11 @@
+Instruction for running si demo
+==============================
+
+Step 1: Install all packages in requirements.txt. Note: you have to make sure install tesseract 4.0 correctly.
+Step 2: Put all needed dataset at the same folder (si_3000 , export ...).
+Step 3: Run command "python make_json_label.py --num_test 10" to get list of testing files (choosen randomly). After this step, you got the file
+    "test_label.json".
+Step 4: Run command "python demo.py --json_test test_label.json --json_predict test_predict.json" to run our main ocr task. After this step, you got the file
+    "test_predict.json".
+Step 5: Run command "python calculate_acc.py --json_test test_label.json --json_predict test_predict.json" to get accuracy report. After this step, you got the file
+    "result.txt".
